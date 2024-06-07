@@ -409,6 +409,7 @@ header {
   }
 
   .nav-btn {
+    display: none;
     padding: 6px 4px;
     font-size: 10px;
     width: 50px;
